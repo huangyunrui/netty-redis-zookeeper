@@ -1,4 +1,4 @@
-package com.hyr.nettyrediszookeeper;
+package com.hyr.nettyrediszookeeper.nio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -7,7 +7,7 @@ import java.nio.channels.SocketChannel;
 
 /*
  * @author hyr
- * @date 19-11-4-上午11:44
+ * @date 19-11-4-下午1:22
  * */
 public class ClientSocketDemo {
     public static void main(String[] args) throws IOException {
